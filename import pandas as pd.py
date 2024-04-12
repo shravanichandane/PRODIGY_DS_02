@@ -8,7 +8,7 @@ import seaborn as sns
 
 #loading dataset
 
-df = pd.read_csv(r'C:\Users\shrav\Downloads\archive.zip')
+df = pd.read_csv(r'C:\Users\shrav\Downloads\archive.zip') #copy path of the file
 print(df.head())
 
 
@@ -58,3 +58,4 @@ plt.show()
 
 print(df.groupby('AgeGroup')['Survived'].mean())
 print(df.groupby('AgeGroup')['Fare'].mean())
+
