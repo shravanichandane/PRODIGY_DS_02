@@ -4,9 +4,9 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset the Titan
 Explore the relationships between variables and identify patterns and trends in the data.
 This project uses the Titanic dataset to predict passenger survival. 
 # Libraries Used
-pandas
-numpy
-matplotlib
+pandas </br>
+numpy</br>
+matplotlib</br>
 seaborn
 # Dataset
 The dataset is obtained from Kaggle and contains information about passengers on the Titanic, including their age, sex, class, fare, and whether they survived.
@@ -47,4 +47,5 @@ Passengers who were in the 'Child' age group were more likely to be in a higher 
 Passengers who were in the 'Senior' age group were more likely to be in a lower class. </br>
 These observations can be used to build a predictive model for passenger survival on the Titanic. </br>
 
-
+linkedin profile:
+www.linkedin.com/in/shravani-chandane-58ab062b6
